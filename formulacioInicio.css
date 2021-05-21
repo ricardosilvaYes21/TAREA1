@@ -1,0 +1,20 @@
+body{
+    background-color: coral;
+}
+p{
+    text-align: center;
+    size: 40px;
+}
+#nombre{
+    color: aqua;
+    text-size: 20px;
+    background-color:brown;
+    text-align: center;
+}
+
+#pass{
+    color: cornflowerblue;
+    size: 20px;
+    background-color: darkgreen;
+    text-align: center;
+}
